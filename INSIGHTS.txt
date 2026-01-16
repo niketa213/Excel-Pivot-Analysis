@@ -1,0 +1,10 @@
+INSIGHTS
+1. The West region contributes the highest share of total sales, indicating strong customer demand in that region.
+
+2. The Technology category generates the highest total sales compared to Furniture and Office Supplies.
+
+3. The Consumer segment is the largest contributor to overall sales across most regions.
+
+4. The Central region shows comparatively lower sales performance, indicating a potential area for improvement.
+
+5. Some categories show high sales but relatively lower profit margins, suggesting higher discounting or operational costs.
